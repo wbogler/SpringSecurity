@@ -1,0 +1,4 @@
+insert into tb_usuario(nome, registro, username, senha) values ('willian', 19000, 'willian', '$2a$10$BdO6Q9r9PqQc56mTqSv2u.C98QQc0ofn/BSSc7y2qJGuRnjhnBUAK')
+insert into tb_usuario(nome, registro, username, senha) values ('Alisson', 18000, 'Ali', '$2a$10$oV4d6Co0kaz8ytABeXm/9OubpIfRyMz2GNql7FVnZwaYC5yn0FUX6')
+insert into tb_usuario(nome, registro, username, senha) values ('Carla', 17000, 'car', '$2a$10$WXYkE1ylw5boyLk0Il/6Q.BmBp9QZxcJ1./oyFLeFMQhVNbRxJmnO')
+insert into tb_usuario(nome, registro, username, senha) values ('Ana', 16000, 'ana', '$2a$10$xok5oBhpntrVM7NC.b6JJOk0SKyX8pJQj96mj/EVMUEOAr4bktMoq')
